@@ -1,5 +1,10 @@
 <html>
+<head>
 <title>
 latihan-git
 </title
+</head>
+<body>
+hasil edit seperti ini
+</body>
 </html>
